@@ -28,14 +28,10 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ it's for😍: [ 🖤FAST MOVIE❤](@mrbhiman12)
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [『mr』☯Shadօw](@mrbhiman44)
 
-➥ Language : Python3
-
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+വേഗം പോകൂ കുഞ്ഞേ
+ഈ ബോട്ട് നിങ്ങൾക്കായി നിർമ്മിച്ചിട്ടില്ല.... ❤🖤❤
 """

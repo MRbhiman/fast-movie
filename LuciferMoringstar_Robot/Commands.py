@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('👑 our king 👑', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('👑 our king 👑', url="@mrbhiman44")
                     ]
                     ]
                 await bot.send_cached_media(
@@ -118,8 +118,8 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
                 ],[
-                InlineKeyboardButton("😍FAST MOVIE😍", callback_data="help"),
-                InlineKeyboardButton("👑OUR KING👑", callback_dat="about")
+                InlineKeyboardButton("😍FAST MOVIE😍", url="@mrbhiman12"),
+                InlineKeyboardButton("👑OUR KING👑", url="@mrbhiman44")
                 ]]
             )
         )

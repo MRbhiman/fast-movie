@@ -115,9 +115,9 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("😍fast movie😍", @mrbhiman12="😍fast movie😍"),
+                InlineKeyboardButton("😍fast movie😍", callback_data="@mrbhiman12"),                
                 [[            
-                InlineKeyboardButton("👑our king👑", @mrbhiman44="👑our king👑")
+                InlineKeyboardButton("👑our king👑", callback_data="@mrbhiman44")
                 ]]
             )
         )

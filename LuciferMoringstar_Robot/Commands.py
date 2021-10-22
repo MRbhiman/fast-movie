@@ -117,8 +117,8 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
                 ],[
-                InlineKeyboardButton("😍fast movie😍", @mrbhiman12="help"),
-                InlineKeyboardButton("👑our king👑", @mrbhiman44="about")
+                InlineKeyboardButton("😍fast movie😍", @mrbhiman12="😍fast movie😍"),
+                InlineKeyboardButton("👑our king👑", @mrbhiman44="👑our king👑")
                 ]]
             )
         )

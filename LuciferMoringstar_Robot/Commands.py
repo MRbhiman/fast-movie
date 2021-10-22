@@ -115,8 +115,10 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("😍FAST MOVIE😍", url="@mrbhiman12"),
-                InlineKeyboardButton("👑OUR KING👑", url="@mrbhiman44")
+                InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
+                ],[
+                InlineKeyboardButton("😍fast movie😍", @mrbhiman12="help"),
+                InlineKeyboardButton("👑our king👑", @mrbhiman44="about")
                 ]]
             )
         )

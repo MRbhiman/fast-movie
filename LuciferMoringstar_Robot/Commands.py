@@ -330,7 +330,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('😍MOVIE CHANNEL😍', url="https://t.me/mrbhiman12"')
+            InlineKeyboardButton('😍MOVIE CHANNEL😍', url="@mrbhiman12"')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
